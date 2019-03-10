@@ -38,7 +38,7 @@ Northern Virginia Experimental Chinese School YoYo videos
 
 <a name="ll04"></a>
 ## Level 04
-- 平沙落雁 Toss, Loop & Catch
+- [平沙落雁 Toss, Loop & Catch](https://youtu.be/mK5ETzG7edU) (_raw_)
 - [繞頸 Around the neck](https://youtu.be/ZRYEMFpZJG4)
 - [交叉接鈴 Tic Tac Toe](https://youtu.be/9OW7Hq52Pkc)
 - 勾反手拋 Go Go Power Rangers
@@ -55,8 +55,8 @@ Northern Virginia Experimental Chinese School YoYo videos
 - [金龍繞玉柱 Around the leg](https://youtu.be/I8W7enNvJ68)
 - [翻山越嶺 Around the leg 2](https://youtu.be/mfCWi-qn5bU) (_raw_)
 - 單手繞腳 Around the leg with one hand
-- 繞腳勾拋 Around the leg + Toss
-- 繞腳開鈴 Around the leg + Spin
+- [繞腳勾拋 Around the leg + Toss](https://youtu.be/f9wV_XH264g) (_raw_)
+- [繞腳開鈴 Around the leg + Spin](https://youtu.be/ff_n358qt64) (_raw_)
 - [繞手不要繞腳, 手腳一起繞 Around the Leg and Arm](https://youtu.be/Rq1UMLFfLVk) (_raw_)
 - [超級大繞腳 Super around the leg](https://youtu.be/fubA4Ni-K6s) 
 - 蜘蛛結網加小車輪 Spider Web + Spin
