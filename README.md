@@ -2,10 +2,11 @@
 ECS yoyo videos
 
 ---
-- Level 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 10+
+- Level [01](#ll01), 02, 03, 04, 05, 06, 07, 08, 09, 10, 10+
 - Qualification Test I, II, III, IV, V
 ---
 
+[#ll01]
 ## Level 01
 - 運鈴 Spin 
 - 調鈴 Adjust 
