@@ -8,14 +8,14 @@ ECS yoyo videos
 
 <a name="ll01"></a>
 ## Level 01
-- [運鈴 Spin](https://youtu.be/2L3DUwRd5E0) _raw_
-- [調鈴 Adjust](https://youtu.be/2L3DUwRd5E0) _raw_
-- [天蠺變 Cicada](https://youtu.be/RQoYQ50tAPc) _raw_
-- [天蠺再變 Double Cicada](https://youtu.be/RQoYQ50tAPc) _raw_
+- [運鈴 Spin](https://youtu.be/2L3DUwRd5E0) (_raw_)
+- [調鈴 Adjust](https://youtu.be/2L3DUwRd5E0) (_raw_)
+- [天蠺變 Cicada](https://youtu.be/RQoYQ50tAPc) (_raw_)
+- [天蠺再變 Double Cicada](https://youtu.be/RQoYQ50tAPc) (_raw_)
 
 <a name="ll02"></a>
 ## Level 02
-- [金門大橋 Golden gate bridge](https://youtu.be/3srsMhELt9I) _raw_
+- [金門大橋 Golden gate bridge](https://youtu.be/3srsMhELt9I) (_raw_)
 - 金雞上架 Chicken on the stick
 - 后羿射日 Shooting the moon
 - 拋鈴 Tossing into the sky
@@ -28,11 +28,11 @@ ECS yoyo videos
 
 <a name="ll03"></a>
 ## Level 03
-- [金蟬脫殼 Escaping Cicada](https://youtu.be/j4Y9ylM1UQA)
+- [金蟬脫殼 Escaping Cicada](https://youtu.be/j4Y9ylM1UQA) (_raw_)
 - 扭轉乾坤簡易版 Ice breaker (easy version)
-- [扭轉乾坤 Ice breaker](https://youtu.be/LGwzy2c0E9s) _raw_
-- [蜘蛛結網 Spider web](https://youtu.be/_zdZJ2GFNVU) _raw_
-- [小小世界 Small world](https://youtu.be/5GLAHdt65Ew) _raw_
+- [扭轉乾坤 Ice breaker](https://youtu.be/LGwzy2c0E9s) (_raw_)
+- [蜘蛛結網 Spider web](https://youtu.be/_zdZJ2GFNVU) (_raw_)
+- [小小世界 Small world](https://youtu.be/5GLAHdt65Ew) (_raw_)
 
 <a name="ll04"></a>
 ## Level 04
