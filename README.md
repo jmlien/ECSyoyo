@@ -15,7 +15,7 @@ ECS yoyo videos
 
 <a name="ll02"></a>
 ## Level 02
-- 金門大橋 Golden gate bridge
+- [金門大橋 Golden gate bridge](https://youtu.be/3srsMhELt9I) _raw_
 - 金雞上架 Chicken on the stick
 - 后羿射日 Shooting the moon
 - 拋鈴 Tossing into the sky
@@ -28,11 +28,11 @@ ECS yoyo videos
 
 <a name="ll03"></a>
 ## Level 03
-- 金蟬脫殼 Escaping Cicada
+- [金蟬脫殼 Escaping Cicada](https://youtu.be/j4Y9ylM1UQA)
 - 扭轉乾坤簡易版 Ice breaker (easy version)
-- 扭轉乾坤 Ice breaker
-- 蜘蛛結網 Spider web
-- 小小世界 Small world
+- [扭轉乾坤 Ice breaker](https://youtu.be/LGwzy2c0E9s) _raw_
+- [蜘蛛結網 Spider web](https://youtu.be/_zdZJ2GFNVU) _raw_
+- [小小世界 Small world](https://youtu.be/5GLAHdt65Ew) _raw_
 
 <a name="ll04"></a>
 ## Level 04
