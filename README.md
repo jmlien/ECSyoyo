@@ -3,7 +3,7 @@ ECS yoyo videos
 
 ---
 - Level [01](#ll01), [02](#ll02), [03](#ll03), [04](#ll04), [05](#ll05), [06](#ll06), [07](#ll07), [08](#ll08), [09](#ll09), [10](#ll10), [10+](#ll10+)
-- Qualification Test ([I](#q01), ([II](#q02), ([III](#q03), ([IV](#q04), ([V](#q05)
+- Qualification Test [I](#q01), [II](#q02), [III](#q03), [IV](#q04), [V](#q05)
 ---
 
 <a name="ll01"></a>
