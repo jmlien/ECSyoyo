@@ -1,4 +1,4 @@
-# ECS yoyo 北維實驗中文學校 扯鈴
+# ECS yoyo 北維實驗中文學校 扯鈴示範影片
 ECS yoyo videos
 
 ---
