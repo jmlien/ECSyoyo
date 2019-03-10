@@ -121,7 +121,7 @@ Northern Virginia Experimental Chinese School YoYo videos
 - [雙鈴天平 Balance Beam](https://youtu.be/m6pdsCiz7ZA) (_raw_)
 - [電風扇 Fan](https://youtu.be/3q9juOtIfbs) (_raw_)
 - [雙鈴勾接 Double YoYo Flip](https://youtu.be/hUFkJ4vwUBk) (_raw_)
-- 雙鈴運鈴 Double YoYo Spin
+- [雙鈴運鈴 Double YoYo Spin](https://youtu.be/sa6CUpYqJUA) (_raw_)
 - [雙鈴繞腳 Double YoYo Around the Leg](https://youtu.be/QHuQ-C9_kR4) (_raw_)
 - [雙鈴繞手 Double YoYo Around the Arm](https://youtu.be/RNhvifFgklE) (_raw_)
 - [灑水系統 Sprinkler](https://youtu.be/3vvEvma8vpg) (_raw_)
