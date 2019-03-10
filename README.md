@@ -90,40 +90,42 @@ ECS yoyo videos
 
 <a name="ll08"></a>
 ## Level 08
-- 左右開弓
-- 金手指釣魚
-- 大車輪 Around the World
-- Around the body
-- 棒棒糖 Lollipop
-- 左右逢源 Black & Yellow
-- 魔術開鈴 Magic Knot
+- [左右開弓 Advanced Go-go power ranger?](https://youtu.be/GaDFdiCnUTs) (_raw_)
+- [金手指釣魚](https://youtu.be/dhB5JeAgB6g) (_raw_)
+- [大車輪 Around the World](https://youtu.be/dLMpgWGmasQ) (_raw_)
+- [Around the body](https://youtu.be/8IaOUZiuXq8) (_raw_)
+- [棒棒糖 Lollipop](https://youtu.be/l3uTxH2yngI) (_raw_)
+- [左右逢源 Black & Yellow](https://youtu.be/kync1sH3BJA) (_raw_)
+- [魔術開鈴 Magic Knot](https://youtu.be/B8FP-SgCnFU) (_raw_)
 
 <a name="q04"></a>
 ## Qualification Test IV (in a team of two people)
+- 拋鈴Tossing into the sky Exchange Yo-Yo, 繞手Around the arm (Two people synchronized), 金龍繞玉柱Around the leg (Two people synchronized), 蜘蛛結網 Spider web Exchange Yo-Yo, 天蠺變 Cicada (One hand from each person), 天蠺再變 Double Cicada (One hand from each person), 拋鈴Tossing into the sky (One hand from each person), 金手指釣魚 One hand from each person
 
 ---
 
 <a name="ll09"></a>
 ## Level 09
 - 繞腳龍捲風
-- 背後接鈴
+- [背後接鈴](https://youtu.be/M3QrEEk7c6I) (_raw_)
 - 姜太公釣魚
 - 摩天輪單手繞鈴
-- 直立鈴 Stop over
-- 直立鈴 Vertical YoYo
-- 外星人 Vertical YoYo on the stick
-- 石中劍 Excaleber
+- [直立鈴 Stop over](https://youtu.be/1_Q3zUpRT7M) (_raw_)
+- [直立鈴 Vertical YoYo](https://youtu.be/RaUxkDSBSXo) (_raw_)
+- [外星人 Vertical YoYo on the stick](https://youtu.be/NdtTdzzwJ3o) (_raw_)
+- [石中劍 Excaleber](https://youtu.be/bgnGlpH-aXA) (_raw_)
 
 <a name="ll10"></a>
 ## Level 10
-- 直立鈴開鈴 Vertical magic knot
+- [直立鈴開鈴 Vertical magic knot]() (_raw_)
 - 超級颶風
-- 雙鈴天平 Balance Beam
-- 電風扇Fan
-- 雙鈴勾接 Double YoYo Flip
+- [雙鈴天平 Balance Beam](https://youtu.be/m6pdsCiz7ZA) (_raw_)
+- [電風扇Fan](https://youtu.be/3q9juOtIfbs) (_raw_)
+- [雙鈴勾接 Double YoYo Flip](https://youtu.be/hUFkJ4vwUBk) (_raw_)
 - 雙鈴運鈴
-- 雙鈴繞腳加繞手
-- 灑水系統 Sprinkler
+- [雙鈴繞腳 Double YoYo Around the Leg](https://youtu.be/QHuQ-C9_kR4) (_raw_)
+- [雙鈴繞手 Double YoYo Around the Arm](https://youtu.be/RNhvifFgklE) (_raw_)
+- [灑水系統 Sprinkler](https://youtu.be/3vvEvma8vpg) (_raw_)
 
 <a name="q05"></a>
 ## Qualification Test V
