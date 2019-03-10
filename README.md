@@ -26,6 +26,8 @@ ECS yoyo videos
 ## Qualification Test I
 - 運鈴 Spin, 天蠺變 Cicada, 天蠺再變 Double Cicada, 拋鈴 Tossing into the sky, 金門大橋 Golden gate bridge
 
+---
+
 <a name="ll03"></a>
 ## Level 03
 - [金蟬脫殼 Escaping Cicada](https://youtu.be/j4Y9ylM1UQA) (_raw_)
@@ -45,6 +47,8 @@ ECS yoyo videos
 <a name="q02"></a>
 ## Qualification Test II
 - 天蠺變 Cicada, 天蠺再變 Double Cicada, 拋鈴 Tossing into the sky, 扭轉乾坤 Ice breaker, 蜘蛛結網 Spider web, 蜻蜓點水 Skipping stone, 金門大橋 Golden gate bridge, 金雞上架 Chicken on the stick, 小小世界 Small world, 金手指 Golden finger
+
+---
 
 <a name="ll05"></a>
 ## Level 05
@@ -71,6 +75,8 @@ ECS yoyo videos
 ## Qualification Test III
 - 繞頸 Around the neck, 金龍繞玉柱 Around the leg, 單手繞腳 Around the leg with one hand, 繞腳勾拋, 超級大繞腳 Super around the leg, 繞手 Around the arm, 繞手反手拋, 繞手旋轉木馬, 小小世界Small world, 金手指 Golden finger
 
+---
+
 <a name="ll07"></a>
 ## Level 07
 - [繞手雲霄飛車 Around the arm roller coaster](https://youtu.be/Yzy-1opuEnw) (_raw_)
@@ -94,6 +100,8 @@ ECS yoyo videos
 
 <a name="q04"></a>
 ## Qualification Test IV (in a team of two people)
+
+---
 
 <a name="ll09"></a>
 ## Level 09
@@ -120,6 +128,8 @@ ECS yoyo videos
 <a name="q05"></a>
 ## Qualification Test V
 - Design your own trick list
+
+---
 
 <a name="ll10+"></a>
 ## Level 10+
