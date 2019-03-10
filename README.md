@@ -38,7 +38,7 @@ Northern Virginia Experimental Chinese School YoYo videos
 
 <a name="ll04"></a>
 ## Level 04
-- 平沙落雁
+- 平沙落雁 Toss, Loop & Catch
 - [繞頸 Around the neck](https://youtu.be/ZRYEMFpZJG4)
 - [交叉接鈴 Tic Tac Toe](https://youtu.be/9OW7Hq52Pkc)
 - 勾反手拋 Go Go Power Rangers
@@ -55,43 +55,42 @@ Northern Virginia Experimental Chinese School YoYo videos
 - [金龍繞玉柱 Around the leg](https://youtu.be/I8W7enNvJ68)
 - [翻山越嶺 Around the leg 2](https://youtu.be/mfCWi-qn5bU) (_raw_)
 - 單手繞腳 Around the leg with one hand
-- 繞腳勾拋
-- 繞腳開鈴
+- 繞腳勾拋 Around the leg + Toss
+- 繞腳開鈴 Around the leg + Spin
 - [繞手不要繞腳, 手腳一起繞 Around the Leg and Arm](https://youtu.be/Rq1UMLFfLVk) (_raw_)
 - [超級大繞腳 Super around the leg](https://youtu.be/fubA4Ni-K6s) 
-- 蜘蛛結網加小車輪
+- 蜘蛛結網加小車輪 Spider Web + Spin
 
 <a name="ll06"></a>
 ## Level 06
-- 交叉繞腳
+- 交叉繞腳 Around the legs, switch legs
 - [三輪車 Tricycle](https://youtu.be/0xu26NcLqsQ) (_raw_)
 - [繞手 Around the arm](https://youtu.be/RrAzqlNEAt4) (_raw_)
-- 繞手反手拋
+- 繞手反手拋 Around the arm + Toss
 - [雙手繞手 Double around the arm](https://youtu.be/ZylbmCcEeuM) (_raw_)
-- 繞手龍捲風
-- 繞手旋轉木馬
+- 繞手龍捲風 Roller Coaster
+- 繞手旋轉木馬 Super around the arm
 
 <a name="q03"></a>
 ## Qualification Test III
-- 繞頸 Around the neck, 金龍繞玉柱 Around the leg, 單手繞腳 Around the leg with one hand, 繞腳勾拋, 超級大繞腳 Super around the leg, 繞手 Around the arm, 繞手反手拋, 繞手旋轉木馬, 小小世界Small world, 金手指 Golden finger
+- 繞頸 Around the neck, 金龍繞玉柱 Around the leg, 單手繞腳 Around the leg with one hand, 繞腳勾拋 Aroung the leg + Toss, 超級大繞腳 Super around the leg, 繞手 Around the arm, 繞手反手拋 Around the arm + Toss, 繞手旋轉木馬, 小小世界Small world, 金手指 Golden finger
 
 ---
 
 <a name="ll07"></a>
 ## Level 07
-- [繞手雲霄飛車 Around the arm roller coaster](https://youtu.be/Yzy-1opuEnw) (_raw_)
-- [繞手翻山越嶺](https://youtu.be/aOK_aJxaCOs)
-- 拋鈴轉身
+- [繞手雲霄飛車 Around the arm + roller coaster](https://youtu.be/Yzy-1opuEnw) (_raw_)
+- [繞手翻山越嶺 Around the arm + roller coaster 2](https://youtu.be/aOK_aJxaCOs)
+- 拋鈴轉身 Toss and Turn
 - 拋鈴跳繩 Jump rope
-- 跳鈴
+- [跳鈴 Jump rope + Whip](https://youtu.be/WVWRFPIW7E8) (_raw_)
 - [小小世界接鈴 Small world + Whip](https://youtu.be/csq-O368BHs) (_raw_)
-- [六個太陽 Sun](https://youtu.be/8GwACKpgPAI) (_raw_)
-- [Jump rope + Whip](https://youtu.be/WVWRFPIW7E8) (_raw_)
+- [六個太陽 Six Sun](https://youtu.be/8GwACKpgPAI) (_raw_)
 
 <a name="ll08"></a>
 ## Level 08
 - [左右開弓 Advanced Go-go power ranger?](https://youtu.be/GaDFdiCnUTs) (_raw_)
-- [金手指釣魚](https://youtu.be/dhB5JeAgB6g) (_raw_)
+- [金手指釣魚 Golden figer toss](https://youtu.be/dhB5JeAgB6g) (_raw_)
 - [大車輪 Around the World](https://youtu.be/dLMpgWGmasQ) (_raw_)
 - [Around the body](https://youtu.be/8IaOUZiuXq8) (_raw_)
 - [棒棒糖 Lollipop](https://youtu.be/l3uTxH2yngI) (_raw_)
@@ -106,10 +105,10 @@ Northern Virginia Experimental Chinese School YoYo videos
 
 <a name="ll09"></a>
 ## Level 09
-- 繞腳龍捲風
-- [背後接鈴](https://youtu.be/M3QrEEk7c6I) (_raw_)
-- 姜太公釣魚
-- 摩天輪單手繞鈴
+- 繞腳龍捲風 Around the leg + Roller Coaster
+- [背後接鈴 Whip from the back](https://youtu.be/M3QrEEk7c6I) (_raw_)
+- 姜太公釣魚 Fishing
+- 摩天輪單手繞鈴 One hand around the world
 - [直立鈴 Stop over](https://youtu.be/1_Q3zUpRT7M) (_raw_)
 - [直立鈴 Vertical YoYo](https://youtu.be/RaUxkDSBSXo) (_raw_)
 - [外星人 Vertical YoYo on the stick](https://youtu.be/NdtTdzzwJ3o) (_raw_)
@@ -118,11 +117,11 @@ Northern Virginia Experimental Chinese School YoYo videos
 <a name="ll10"></a>
 ## Level 10
 - [直立鈴開鈴 Vertical magic knot]() (_raw_)
-- 超級颶風
+- 超級颶風 Tonado
 - [雙鈴天平 Balance Beam](https://youtu.be/m6pdsCiz7ZA) (_raw_)
-- [電風扇Fan](https://youtu.be/3q9juOtIfbs) (_raw_)
+- [電風扇 Fan](https://youtu.be/3q9juOtIfbs) (_raw_)
 - [雙鈴勾接 Double YoYo Flip](https://youtu.be/hUFkJ4vwUBk) (_raw_)
-- 雙鈴運鈴
+- 雙鈴運鈴 Double YoYo Spin
 - [雙鈴繞腳 Double YoYo Around the Leg](https://youtu.be/QHuQ-C9_kR4) (_raw_)
 - [雙鈴繞手 Double YoYo Around the Arm](https://youtu.be/RNhvifFgklE) (_raw_)
 - [灑水系統 Sprinkler](https://youtu.be/3vvEvma8vpg) (_raw_)
