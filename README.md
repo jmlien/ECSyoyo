@@ -38,9 +38,9 @@ ECS yoyo videos
 ## Level 04
 - 平沙落雁
 - [繞頸 Around the neck](https://youtu.be/ZRYEMFpZJG4)
-- 交叉接鈴 Tic Tac Toe
+- [交叉接鈴 Tic Tac Toe](https://youtu.be/9OW7Hq52Pkc)
 - 勾反手拋 Go Go Power Rangers
-- 金手指 Golden finger
+- [金手指 Golden finger](https://youtu.be/12BjduEY-kA)
 
 <a name="q02"></a>
 ## Qualification Test II
@@ -48,13 +48,13 @@ ECS yoyo videos
 
 <a name="ll05"></a>
 ## Level 05
-- 金龍繞玉柱 Around the leg
+- [金龍繞玉柱 Around the leg](https://youtu.be/I8W7enNvJ68)
 - 翻山越嶺 Around the leg 2
 - 單手繞腳 Around the leg with one hand
 - 繞腳勾拋
 - 繞腳開鈴
 - 繞手不要繞腳, 手腳一起繞 Around the Leg and Arm
-- 超級大繞腳 Super around the leg
+- [超級大繞腳 Super around the leg](https://youtu.be/fubA4Ni-K6s)
 - 蜘蛛結網加小車輪
 
 <a name="ll06"></a>
