@@ -37,10 +37,10 @@ ECS yoyo videos
 <a name="ll04"></a>
 ## Level 04
 - 平沙落雁
-- [繞頸 Around the neck](https://youtu.be/ZRYEMFpZJG4){:target="_blank"}
-- [交叉接鈴 Tic Tac Toe](https://youtu.be/9OW7Hq52Pkc){:target="_blank"}
+- [繞頸 Around the neck](https://youtu.be/ZRYEMFpZJG4)
+- [交叉接鈴 Tic Tac Toe](https://youtu.be/9OW7Hq52Pkc)
 - 勾反手拋 Go Go Power Rangers
-- [金手指 Golden finger](https://youtu.be/12BjduEY-kA){:target="_blank"}
+- [金手指 Golden finger](https://youtu.be/12BjduEY-kA)
 
 <a name="q02"></a>
 ## Qualification Test II
