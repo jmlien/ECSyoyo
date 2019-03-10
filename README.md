@@ -90,7 +90,7 @@ Northern Virginia Experimental Chinese School YoYo videos
 <a name="ll08"></a>
 ## Level 08
 - [左右開弓 Advanced Go-go power ranger](https://youtu.be/GaDFdiCnUTs) (_raw_)
-- [金手指釣魚 Golden figer toss](https://youtu.be/dhB5JeAgB6g) (_raw_)
+- [金手指釣魚 Golden finger toss](https://youtu.be/dhB5JeAgB6g) (_raw_)
 - [大車輪 Around the World](https://youtu.be/dLMpgWGmasQ) (_raw_)
 - [Around the body](https://youtu.be/8IaOUZiuXq8) (_raw_)
 - [棒棒糖 Lollipop](https://youtu.be/l3uTxH2yngI) (_raw_)
