@@ -49,21 +49,21 @@ ECS yoyo videos
 <a name="ll05"></a>
 ## Level 05
 - [金龍繞玉柱 Around the leg](https://youtu.be/I8W7enNvJ68)
-- 翻山越嶺 Around the leg 2
+- [翻山越嶺 Around the leg 2](https://youtu.be/mfCWi-qn5bU) (_raw_)
 - 單手繞腳 Around the leg with one hand
 - 繞腳勾拋
 - 繞腳開鈴
-- 繞手不要繞腳, 手腳一起繞 Around the Leg and Arm
-- [超級大繞腳 Super around the leg](https://youtu.be/fubA4Ni-K6s)
+- [繞手不要繞腳, 手腳一起繞 Around the Leg and Arm](https://youtu.be/Rq1UMLFfLVk) (_raw_)
+- [超級大繞腳 Super around the leg](https://youtu.be/fubA4Ni-K6s) 
 - 蜘蛛結網加小車輪
 
 <a name="ll06"></a>
 ## Level 06
 - 交叉繞腳
-- 三輪車 Tricycle
-- 繞手 Around the arm
+- [三輪車 Tricycle](https://youtu.be/0xu26NcLqsQ) (_raw_)
+- [繞手 Around the arm](https://youtu.be/RrAzqlNEAt4) (_raw_)
 - 繞手反手拋
-- 雙手繞手 Double around the arm
+- [雙手繞手 Double around the arm](https://youtu.be/ZylbmCcEeuM) (_raw_)
 - 繞手龍捲風
 - 繞手旋轉木馬
 
@@ -73,13 +73,14 @@ ECS yoyo videos
 
 <a name="ll07"></a>
 ## Level 07
-- 繞手雲霄飛車
-- 繞手翻山越嶺
+- [繞手雲霄飛車 Around the arm roller coaster](https://youtu.be/Yzy-1opuEnw) (_raw_)
+- [繞手翻山越嶺](https://youtu.be/aOK_aJxaCOs)
 - 拋鈴轉身
 - 拋鈴跳繩 Jump rope
 - 跳鈴
-- 小小世界接鈴 Small world + Whip
-- 六個太陽 Sun
+- [小小世界接鈴 Small world + Whip](https://youtu.be/csq-O368BHs) (_raw_)
+- [六個太陽 Sun](https://youtu.be/8GwACKpgPAI) (_raw_)
+- [Jump rope + Whip](https://youtu.be/WVWRFPIW7E8) (_raw_)
 
 <a name="ll08"></a>
 ## Level 08
