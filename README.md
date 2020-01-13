@@ -59,7 +59,7 @@ Northern Virginia Experimental Chinese School YoYo videos
 - [繞腳勾拋 Around the leg + Toss](https://youtu.be/f9wV_XH264g) (_raw_)
 - [繞腳開鈴 Around the leg + Spin](https://youtu.be/ff_n358qt64) (_raw_)
 - [繞手不要繞腳, 手腳一起繞 Around the Leg and Arm](https://youtu.be/Rq1UMLFfLVk) (_raw_)
-- - [![超級大繞腳 Super around the leg](https://img.youtube.com/vi/fubA4Ni-K6s/1.jpg)](https://youtu.be/fubA4Ni-K6s)   [超級大繞腳 Super around the leg](https://youtu.be/fubA4Ni-K6s) 
+- [![超級大繞腳 Super around the leg](https://img.youtube.com/vi/fubA4Ni-K6s/1.jpg)](https://youtu.be/fubA4Ni-K6s)   [超級大繞腳 Super around the leg](https://youtu.be/fubA4Ni-K6s) 
 - 蜘蛛結網加小車輪 Spider Web + Spin
 
 <a name="ll06"></a>
