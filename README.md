@@ -41,11 +41,12 @@ Northern Virginia Experimental Chinese School YoYo videos
 
 <a name="ll04"></a>
 ## Level 04
-- [![平沙落雁 Toss, Loop & Catch](https://img.youtube.com/vi/-02sXw69IGk/2.jpg)](https://youtu.be/-02sXw69IGk)  [平沙落雁 Toss, Loop & Catch](https://youtu.be/-02sXw69IGk)
-- [![繞頸 Around the neck](https://img.youtube.com/vi/ZRYEMFpZJG4/1.jpg)](https://youtu.be/ZRYEMFpZJG4)  [繞頸 Around the neck](https://youtu.be/ZRYEMFpZJG4)
-- [![交叉接鈴 Tic Tac Toe](https://img.youtube.com/vi/9OW7Hq52Pkc/1.jpg)](https://youtu.be/9OW7Hq52Pkc)   [交叉接鈴 Tic Tac Toe](https://youtu.be/9OW7Hq52Pkc)
-- [![勾反手拋 Go Go Power Rangers + Flying Eagles](https://img.youtube.com/vi/tEwPgmIxtIE/1.jpg)](https://youtu.be/tEwPgmIxtIE)    [勾反手拋 Go Go Power Rangers + Flying Eagles](https://youtu.be/tEwPgmIxtIE)
-- [![金手指 Golden finger](https://img.youtube.com/vi/12BjduEY-kA/1.jpg)](https://youtu.be/12BjduEY-kA)  [金手指 Golden finger](https://youtu.be/12BjduEY-kA)
+
+- [<img align="top" src="https://img.youtube.com/vi/-02sXw69IGk/1.jpg"> 平沙落雁 Toss, Loop & Catch](https://youtu.be/-02sXw69IGk)
+- [<img align="top" src="https://img.youtube.com/vi/ZRYEMFpZJG4/1.jpg"> 繞頸 Around the neck](https://youtu.be/ZRYEMFpZJG4)
+- [<img align="top" src="https://img.youtube.com/vi/9OW7Hq52Pkc/1.jpg"> 交叉接鈴 Tic Tac Toe](https://youtu.be/9OW7Hq52Pkc)
+- [<img align="top" src="https://img.youtube.com/vi/tEwPgmIxtIE/1.jpg"> 勾反手拋 Go Go Power Rangers + Flying Eagles](https://youtu.be/tEwPgmIxtIE)
+- [<img align="top" src="https://img.youtube.com/vi/12BjduEY-kA/1.jpg"> 金手指 Golden finger](https://youtu.be/12BjduEY-kA)
 
 <a name="q02"></a>
 ## Qualification Test II
