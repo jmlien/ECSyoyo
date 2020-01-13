@@ -7,7 +7,7 @@ Northern Virginia Experimental Chinese School YoYo videos
 
 <a name="ll01"></a>
 ## Level 01
-- [運鈴 Spin](https://youtu.be/RQoYQ50tAPc) (_raw_)
+- [運鈴 Spin](https://youtu.be/U8GGXXWstGo) (_raw_)
 - [調鈴 Adjust](https://youtu.be/2L3DUwRd5E0) (_raw_)
   - [左右調鈴](https://youtu.be/uSwYhrmIwhg) (by Diabolo Classroom)
 - [天蠺變 Cicada](https://youtu.be/RQoYQ50tAPc) (_raw_)
