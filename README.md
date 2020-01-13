@@ -53,13 +53,13 @@ Northern Virginia Experimental Chinese School YoYo videos
 
 <a name="ll05"></a>
 ## Level 05
-- [金龍繞玉柱 Around the leg](https://youtu.be/I8W7enNvJ68)
+- [![金龍繞玉柱 Around the leg](https://img.youtube.com/vi/I8W7enNvJ68/1.jpg)](https://youtu.be/I8W7enNvJ68)   [金龍繞玉柱 Around the leg](https://youtu.be/I8W7enNvJ68)
 - [翻山越嶺 Around the leg 2](https://youtu.be/mfCWi-qn5bU) (_raw_)
 - 單手繞腳 Around the leg with one hand
 - [繞腳勾拋 Around the leg + Toss](https://youtu.be/f9wV_XH264g) (_raw_)
 - [繞腳開鈴 Around the leg + Spin](https://youtu.be/ff_n358qt64) (_raw_)
 - [繞手不要繞腳, 手腳一起繞 Around the Leg and Arm](https://youtu.be/Rq1UMLFfLVk) (_raw_)
-- [超級大繞腳 Super around the leg](https://youtu.be/fubA4Ni-K6s) 
+- - [![超級大繞腳 Super around the leg](https://img.youtube.com/vi/fubA4Ni-K6s/1.jpg)](https://youtu.be/fubA4Ni-K6s)   [超級大繞腳 Super around the leg](https://youtu.be/fubA4Ni-K6s) 
 - 蜘蛛結網加小車輪 Spider Web + Spin
 
 <a name="ll06"></a>
