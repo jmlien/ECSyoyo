@@ -39,7 +39,7 @@ Northern Virginia Experimental Chinese School YoYo videos
 
 <a name="ll04"></a>
 ## Level 04
-- [平沙落雁 Toss, Loop & Catch](https://youtu.be/-02sXw69IGk)
+- [![平沙落雁 Toss, Loop & Catch](https://img.youtube.com/vi/-02sXw69IGk/1.jpg)](https://youtu.be/U8GGXXWstGo)[平沙落雁 Toss, Loop & Catch](https://youtu.be/-02sXw69IGk)
 - [繞頸 Around the neck](https://youtu.be/ZRYEMFpZJG4)
 - [交叉接鈴 Tic Tac Toe](https://youtu.be/9OW7Hq52Pkc)
 - [勾反手拋 Go Go Power Rangers + Flying Eagles](https://youtu.be/tEwPgmIxtIE)
