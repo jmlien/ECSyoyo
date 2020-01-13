@@ -64,12 +64,12 @@ Northern Virginia Experimental Chinese School YoYo videos
 
 <a name="ll06"></a>
 ## Level 06
-- 交叉繞腳 Around the legs, switch legs
+- [交叉繞腳 Around the legs, switch legs](https://youtu.be/bH4eLjOnyjQ?t=33)
 - [三輪車 Tricycle](https://youtu.be/0xu26NcLqsQ) (_raw_)
 - [繞手 Around the arm](https://youtu.be/RrAzqlNEAt4) (_raw_)
-- 繞手反手拋 Around the arm + Toss
+- [繞手反手拋 Around the arm + Toss](https://youtu.be/bH4eLjOnyjQ) (created by Andew Wung)
 - [雙手繞手 Double around the arm](https://youtu.be/ZylbmCcEeuM) (_raw_)
-- 繞手龍捲風 Roller Coaster
+- [繞手龍捲風 Roller Coaster](https://youtu.be/bH4eLjOnyjQ?t=6)
 - 繞手旋轉木馬 Super around the arm
 
 <a name="q03"></a>
@@ -82,8 +82,8 @@ Northern Virginia Experimental Chinese School YoYo videos
 ## Level 07
 - [繞手雲霄飛車 Around the arm + roller coaster](https://youtu.be/Yzy-1opuEnw) (_raw_)
 - [繞手翻山越嶺 Around the arm + roller coaster 2](https://youtu.be/aOK_aJxaCOs) (_raw_)
-- 拋鈴轉身 Toss and Turn
-- 拋鈴跳繩 Jump rope
+- [拋鈴轉身 Toss and Turn](https://youtu.be/qoagmpvSfiI) (created by Andew Wung) 
+- [拋鈴跳繩 Jump rope](https://youtu.be/qoagmpvSfiI?t=7) (created by Andew Wung)
 - [跳鈴 Jump rope + Whip](https://youtu.be/WVWRFPIW7E8) (_raw_)
 - [小小世界接鈴 Small world + Whip](https://youtu.be/csq-O368BHs) (_raw_)
 - [六個太陽 Six Sun](https://youtu.be/8GwACKpgPAI) (_raw_)
