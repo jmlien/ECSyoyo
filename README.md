@@ -23,7 +23,7 @@ Northern Virginia Experimental Chinese School YoYo videos
 - [后羿射日 Shooting the moon](https://youtu.be/E4jf9y-LVZQ?t=9) (created by Andrew Wung)
 - [拋鈴 Tossing into the sky](https://youtu.be/E4jf9y-LVZQ?t=17) (created by Andrew Wung)
 - [蜻蜓點水 Skipping stone](https://youtu.be/E4jf9y-LVZQ?t=26) (created by Andrew Wung)
-- [螞蟻上樹 Elevator](https://youtu.be/E4jf9y-LVZQ?t=31) (created by Andrew Wung)
+- [螞蟻上樹 Elevator](https://youtu.be/E4jf9y-LVZQ?t=32) (created by Andrew Wung)
 
 <a name="q01"></a>
 ## Qualification Test I
