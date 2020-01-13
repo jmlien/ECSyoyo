@@ -118,7 +118,7 @@ Northern Virginia Experimental Chinese School YoYo videos
 <a name="ll10"></a>
 ## Level 10
 - [直立鈴開鈴 Vertical magic knot]() (_raw_)
-- 超級颶風 Tonado
+- [超級颶風 Tonado](https://youtu.be/OQs9eugfQGw?t=84) (created by Andew Wung)
 - [雙鈴天平 Balance Beam](https://youtu.be/m6pdsCiz7ZA) (_raw_)
 - [電風扇 Fan](https://youtu.be/3q9juOtIfbs) (_raw_)
 - [雙鈴勾接 Double YoYo Flip](https://youtu.be/hUFkJ4vwUBk) (_raw_)
