@@ -19,11 +19,11 @@ Northern Virginia Experimental Chinese School YoYo videos
 <a name="ll02"></a>
 ## Level 02
 - [金門大橋 Golden gate bridge](https://youtu.be/3srsMhELt9I) (_raw_)
-- 金雞上架 Chicken on the stick
-- 后羿射日 Shooting the moon
-- 拋鈴 Tossing into the sky
-- 蜻蜓點水 Skipping stone
-- 螞蟻上樹 Elevator
+- [金雞上架 Chicken on the stick](https://youtu.be/E4jf9y-LVZQ) (created by Andrew Wung)
+- [后羿射日 Shooting the moon](https://youtu.be/E4jf9y-LVZQ?t=9) (created by Andrew Wung)
+- [拋鈴 Tossing into the sky](https://youtu.be/E4jf9y-LVZQ?t=17) (created by Andrew Wung)
+- [蜻蜓點水 Skipping stone](https://youtu.be/E4jf9y-LVZQ?t=26) (created by Andrew Wung)
+- [螞蟻上樹 Elevator](https://youtu.be/E4jf9y-LVZQ?t=31) (created by Andrew Wung)
 
 <a name="q01"></a>
 ## Qualification Test I
