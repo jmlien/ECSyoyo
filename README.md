@@ -106,12 +106,12 @@ Northern Virginia Experimental Chinese School YoYo videos
 
 <a name="ll09"></a>
 ## Level 09
-- 繞腳龍捲風 Around the leg + Roller Coaster
+- [繞腳龍捲風 Around the leg + Roller Coaster](https://youtu.be/VImuoI2tGkY?t=32) (created by Andew Wung)
 - [背後接鈴 Whip from the back](https://youtu.be/M3QrEEk7c6I) (_raw_)
-- 姜太公釣魚 Fishing
-- 摩天輪單手繞鈴 One hand around the world
-- [直立鈴 Stop over](https://youtu.be/1_Q3zUpRT7M) (_raw_)
-- [直立鈴 Vertical YoYo](https://youtu.be/RaUxkDSBSXo) (_raw_)
+- [姜太公釣魚 Fishing](https://youtu.be/VImuoI2tGkY?t=8) (created by Andew Wung)
+- [摩天輪單手繞鈴 One hand around the world](https://youtu.be/VImuoI2tGkY?t=15) (created by Andew Wung)
+- [直立鈴 Stop over](https://youtu.be/1_Q3zUpRT7M) (_raw_), [another version](https://youtu.be/VImuoI2tGkY?t=30) (created by Andew Wung)
+- [直立鈴 Vertical YoYo](https://youtu.be/RaUxkDSBSXo) (_raw_), [another version](https://youtu.be/VImuoI2tGkY?t=39) (created by Andew Wung)
 - [外星人 Vertical YoYo on the stick](https://youtu.be/NdtTdzzwJ3o) (_raw_)
 - [石中劍 Excaleber](https://youtu.be/bgnGlpH-aXA) (_raw_)
 
